@@ -12,7 +12,7 @@ title                    : "Zheng Hanyun / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zheng Hanyun"
 description              : &description "personal description"
-url                      : "https://zhenghanyun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://thisiszhy.github.io/zhenghanyun.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Student"
   location         : "Beijing, China"
   employer         : "Peking University"
-  uri              : "https://zhenghanyun.github.io"
+  uri              : "https://thisiszhy.github.io/zhenghanyun.github.io/"
   email            : "2401110039@pku.edu.cn" 
 
   # Academic websites
