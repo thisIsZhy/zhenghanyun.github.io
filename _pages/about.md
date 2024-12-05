@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-I reveived my bachelor's degree from Peking University in 2024. I am now a PhD student in the School of Mathematical Sciences, Peking University. 
+I received my bachelor's degree from Peking University in 2024. I am now a PhD student at the School of Mathematical Sciences, Peking University. 
 
 Research
 ======
